@@ -5,12 +5,17 @@ contributor:
     agent_name: Johnson, A. J.
     gutenberg_agent_id: '26498'
     url: http://www.gutenberg.org/2009/agents/26498
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Westbury, Atha
     gutenberg_agent_id: '54662'
     url: http://www.gutenberg.org/2009/agents/54662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68225#Australian-fairy-tales
 gutenberg_issued: '2022-06-04'
 identifiers:
   gutenberg: '68225'
